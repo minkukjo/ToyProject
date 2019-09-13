@@ -14,13 +14,13 @@
 실제 구동 어플리케이션 UI
 ```
 
-<img width="1280" alt="스크린샷 2019-09-13 오후 10 20 50" src="https://user-images.githubusercontent.com/43809168/64866539-92ddb880-d676-11e9-8100-7a7a74eba983.png">
+<img width="1280" alt="스크린샷 2019-09-13 오후 10 20 46" src="https://user-images.githubusercontent.com/43809168/64866546-983b0300-d676-11e9-8aaf-71002a8c589f.png">
 
 ```
 BackEnd 개발 환경 : Intellij IDE
 ```
 
-<img width="1280" alt="스크린샷 2019-09-13 오후 10 20 46" src="https://user-images.githubusercontent.com/43809168/64866546-983b0300-d676-11e9-8aaf-71002a8c589f.png">
+<img width="1280" alt="스크린샷 2019-09-13 오후 10 20 50" src="https://user-images.githubusercontent.com/43809168/64866539-92ddb880-d676-11e9-8100-7a7a74eba983.png">
 
 ```
 FrontEnd 개발 환경 : VSCode
