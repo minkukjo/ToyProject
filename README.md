@@ -8,7 +8,7 @@
 2. BackEnd에 Delete 기능이 구현되어있지 않음, 구현 후 Front에 버튼을 만들어 테스트
 
 ## UI 및 개발 환경
-<img width="1280" alt="스크린샷 2019-09-13 오후 10 20 42" src="https://user-images.githubusercontent.com/43809168/64866542-96713f80-d676-11e9-8cb4-947beb170515.png">
+<img width="1280" alt="스크린샷 2019-09-13 오후 10 40 34" src="https://user-images.githubusercontent.com/43809168/64867034-89a11b80-d677-11e9-8a18-5cfb4e0991f4.png">
 
 ```
 실제 구동 어플리케이션 UI
